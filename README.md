@@ -1,7 +1,7 @@
-<img align='center' height='210' width='950' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlqanBlOWw0cTBjamsyaGlieTY4dWZsanR0aW43eGxwNDZ6bmU0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align='right' height='300' width='300' src="https://github.com/MatheusFPSilva-Dev/MatheusFPSilva-Dev/blob/main/escreva%20o%20texto%20_Matheus%20F.P%20Silva_.jpg" />
 
 
-    https://github.com/MatheusFPSilva-Dev/MatheusFPSilva-Dev/blob/main/escreva%20o%20texto%20_Matheus%20F.P%20Silva_.jpg
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=noto+serif&size=25&pause=1000&background=FFFFFF00&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Matheus)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=noto+serif&size=25&pause=1000&background=FFFFFF00&width=435&lines=HI%2C+My+name+is+Matheus)](https://git.io/typing-svg)
 
