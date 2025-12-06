@@ -1,6 +1,7 @@
-<img align='center' height='210' width='950' src="https://github.com/MatheusFPSilva-Dev/MatheusFPSilva-Dev/blob/main/escreva%20o%20texto%20_Matheus%20F.P%20Silva_.jpg" />
+<img align='center' height='210' width='950' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlqanBlOWw0cTBjamsyaGlieTY4dWZsanR0aW43eGxwNDZ6bmU0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 
+    https://github.com/MatheusFPSilva-Dev/MatheusFPSilva-Dev/blob/main/escreva%20o%20texto%20_Matheus%20F.P%20Silva_.jpg
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=noto+serif&size=25&pause=1000&background=FFFFFF00&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Matheus)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=noto+serif&size=25&pause=1000&background=FFFFFF00&width=435&lines=HI%2C+My+name+is+Matheus)](https://git.io/typing-svg)
 
@@ -24,7 +25,7 @@
 - 😄 Pronouns:he/him.
 - 😄 Pronomess:ele/dele.
 - <hr>
-- ⚡ Fun fact:
+- ⚡ Fun fact: The Amazonian manatee can ingest up to 10% of its body weight in food in a single day. They weigh around 400-550 kg, meaning they eat about 40 to 50 kg of food per day! In a month, they eat the equivalent of two Formula 1 cars.🏎🏁
 <hr>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
