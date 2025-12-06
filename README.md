@@ -1,4 +1,4 @@
-<img align='right' height='300' width='300' src="https://github.com/MatheusFPSilva-Dev/MatheusFPSilva-Dev/blob/main/escreva%20o%20texto%20_Matheus%20F.P%20Silva_.jpg" />
+<img align='center' height='270' width='950' src="https://github.com/MatheusFPSilva-Dev/MatheusFPSilva-Dev/blob/main/escreva%20o%20texto%20_Matheus%20F.P%20Silva_.jpg" />
 
 
     
